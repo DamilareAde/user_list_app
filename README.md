@@ -3,14 +3,10 @@
 A new Flutter project.
 
 ## Getting Started
+A simple Flutter application that fetches and displays a list of users from a REST API. This project demonstrates the integration of HTTP requests in Flutter using the http package and how to render data in the UI using #FutureBuilder and #ListView.
+#Features:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Fetches user data from a remote API.
+-Displays the user data in a list format.
+-Error handling for failed API requests.
+-Clean and simple UI built with Flutter's MaterialApp and Scaffold.
