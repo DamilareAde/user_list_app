@@ -7,6 +7,9 @@ A simple Flutter application that fetches and displays a list of users from a RE
 **Features:**
 
 -Fetches user data from a remote API.
+
 -Displays the user data in a list format.
+
 -Error handling for failed API requests.
+
 -Clean and simple UI built with Flutter's MaterialApp and Scaffold.
